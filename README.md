@@ -1,4 +1,6 @@
-<img src="https://github.com/dpaulos6/dpaulos6/blob/main/dpaulos6_banner.svg" style="width: 500px;" />
+<a href="https://github.com/dpaulos6"> 
+<img src="https://github.com/dpaulos6/dpaulos6/blob/main/dpaulos6_banner.svg" alt="dpaulos6' github banner" style="width: 500px;" />
+</a>
 
 <h2>NPM Packages</h2>
 
