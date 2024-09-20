@@ -4,13 +4,13 @@
 
 <h2>Projects</h2>
 
-- [digestify](https://digestify.dev)
-- [rapid-cli](https://github.com/dpaulos6/rapid-cli)
-- Modular E-Commerce Platform
-- SlotBot Website
-- FishWiki Website
-- Would You Bot Website
-- Rivo Website
+- [digestify](https://digestify.dev) (ongoing)
+- [rapid-cli](https://github.com/dpaulos6/rapid-cli) (paused)
+- Modular E-Commerce Platform (just started)
+- SlotBot Website (ongoing)
+- FishWiki Website (ongoing)
+- Would You Bot Website (ongoing)
+- Rivo Website (ongoing)
 
 <h2>NPM Packages</h2>
 
