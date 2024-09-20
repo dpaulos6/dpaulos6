@@ -5,6 +5,7 @@
 <h2>Projects</h2>
 
 - [digestify](https://digestify.dev)
+- [rapid-cli](https://github.com/dpaulos6/rapid-cli)
 - Modular E-Commerce Platform
 - SlotBot Website
 - FishWiki Website
