@@ -2,9 +2,18 @@
 <img src="https://github.com/dpaulos6/dpaulos6/blob/main/dpaulos6_banner.svg" alt="dpaulos6' github banner" style="width: 500px;" />
 </a>
 
+<h2>Projects</h2>
+
+- [digestify](https://digestify.dev)
+- Modular E-Commerce Platform
+- SlotBot Website
+- FishWiki Website
+- Would You Bot Website
+- Rivo Website
+
 <h2>NPM Packages</h2>
 
-[http-status-utils](https://www.npmjs.com/package/http-status-utils)
+- [http-status-utils](https://www.npmjs.com/package/http-status-utils)
 
 <h2>Socials</h2>
 
