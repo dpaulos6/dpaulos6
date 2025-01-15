@@ -6,6 +6,7 @@
 
 - [digestify](https://digestify.dev) (ongoing)
 - [rapid-cli](https://github.com/dpaulos6/rapid-cli) (paused)
+- [autover](https://github.com/dpaulos6/autover)
 - Modular E-Commerce Platform (paused)
 - SlotBot Website (ongoing)
 - FishWiki Website (finished)
