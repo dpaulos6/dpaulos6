@@ -16,6 +16,7 @@
 
 <h2>NPM Packages</h2>
 
+- [@dpaulos6/autover](https://www.npmjs.com/package/@dpaulos6/autover)
 - [http-status-utils](https://www.npmjs.com/package/http-status-utils)
 
 <h2>Socials</h2>
