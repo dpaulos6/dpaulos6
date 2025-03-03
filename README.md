@@ -6,7 +6,6 @@
 
 - [digestify](https://digestify.dev) (ongoing)
 - [rapid-cli](https://github.com/dpaulos6/rapid-cli) (paused)
-- [autover](https://github.com/dpaulos6/autover)
 - Modular E-Commerce Platform (paused)
 - SlotBot Website (ongoing)
 - FishWiki Website (finished)
@@ -17,7 +16,7 @@
 
 <h2>NPM Packages</h2>
 
-- [@dpaulos6/autover](https://www.npmjs.com/package/@dpaulos6/autover)
+- [@dpaulos6/versify](https://www.npmjs.com/package/@dpaulos6/versify)
 - [http-status-utils](https://www.npmjs.com/package/http-status-utils)
 
 <h2>Socials</h2>
