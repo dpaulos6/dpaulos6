@@ -23,7 +23,6 @@
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dpaulos6)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/dpaulos6)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/Y7ujpKmmma)
 
 <h2>My GitHub Stats</h2>
 
