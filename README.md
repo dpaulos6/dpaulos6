@@ -6,13 +6,13 @@
 
 - [digestify](https://digestify.dev) (ongoing)
 - [rapid-cli](https://github.com/dpaulos6/rapid-cli) (paused)
-- Modular E-Commerce Platform (paused)
+- Modular E-Commerce Template (paused)
 - SlotBot Website (ongoing)
-- FishWiki Website (finished)
-- Would You Bot Website (ongoing)
-- Rivo Website (ongoing)
+- [FishWiki Website](https://fishwiki.app/) (finished)
+- [Would You Bot Website](https://wouldyoubot.gg/) (ongoing)
+- [Rivo Website](https://rivo.gg/) (ongoing)
 - Creatorlink (to do)
-- Cavescape (to do)
+- [Cavescape](https://cavescapegame.com/) (finished)
 
 <h2>NPM Packages</h2>
 
